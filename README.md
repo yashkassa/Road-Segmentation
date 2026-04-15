@@ -160,13 +160,6 @@ tqdm
 
 ---
 
-## 👤 Author
-
-**Yash Kassa**  
-Flutter & Full-Stack Developer | ML Enthusiast  
-[GitHub](https://github.com/yashkassa) · [LinkedIn](https://linkedin.com/in/yash-kassa-137773232)
-
----
 
 ## 📄 License
 
