@@ -12,9 +12,7 @@ checkpoints/
 logs/
 output/
 features/
-*.png
-*.jpg
-!samples/*.png
+
 
 # Python
 __pycache__/
