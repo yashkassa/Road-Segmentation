@@ -7,6 +7,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Dataset](https://img.shields.io/badge/Dataset-DeepGlobe-orange)
 
+# Example 
+
+<p align="center">
+  <img src="samples/3594_sat.jpg" alt="Satellite View" width="200">
+  <img src="samples/3594_mask.png" alt="Mask View" width="200">
+</p>
 ---
 
 ## 📌 Overview
