@@ -1,0 +1,48 @@
+# Data & model files (too large for GitHub)
+data/
+checkpoints/
+*.pth
+*.pt
+*.h5
+
+# Kaggle working directory outputs
+/kaggle/
+
+# Logs and generated outputs
+logs/
+output/
+features/
+*.png
+*.jpg
+!samples/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
